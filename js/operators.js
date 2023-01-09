@@ -18,4 +18,4 @@ console.log(isChecked || isClose);  // если хотя бы один из ар
 console.log(isChecked && isClose); // оба должны быть true, если один из них false, то вернет false
 console.log(isChecked || !isClose); // ! это оператор отрицания
 
-console.log(5 + 4 * 3 != 18); // != не равен
+console.log(5 + 4 * 3 != 18); // != не равно
